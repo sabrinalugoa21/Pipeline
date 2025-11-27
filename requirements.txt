@@ -1,1 +1,1 @@
-I am trying to trigger jenkins.
+I am trying to trigger jenkins and see if I have the right permissions to push.
